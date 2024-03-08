@@ -1,0 +1,90 @@
+Атаки на прикладі Windows (викрадення інформації з ПК) - це спроби зловмисників отримати доступ до конфіденційних даних, 
+
+які зберігаються або передаються за допомогою комп’ютера, що працює під управлінням операційної системи Windows.
+
+Для цього вони можуть використовувати різні методи, такі як:
+
+Шкідливе програмне забезпечення - це зловмисний код, який може інфікувати комп’ютер, перехоплювати,
+
+модифікувати або викрадати дані, блокувати систему або вимагати викуп. Існують різні типи шкідливого програмного забезпечення,
+
+такі як віруси, черви, трояни, руткіти, шпигунське ПЗ, рекламне ПЗ, рансомвар та інші.
+
+Фішинг - це вид обману, коли зловмисники намагаються викликати довіру жертви, використовуючи підроблені електронні листи,
+
+веб-сайти, повідомлення або інші форми комунікації, щоб викрасти її особисту, фінансову або іншу важливу інформацію.
+
+Експлойти - це фрагменти коду, які використовують уразливості в програмному забезпеченні або системі,
+
+щоб отримати несанкціонований доступ, виконати зловмисні дії або поширити шкідливе програмне забезпечення.
+
+Соціальна інженерія - це психологічна маніпуляція, коли зловмисники намагаються спонукати жертву до виконання певних дій,
+
+які можуть призвести до викрадення інформації, компрометації системи або інших негативних наслідків. 
+
+Наприклад, вони можуть вдавати співробітників технічної підтримки, партнерів, клієнтів або інших довірених осіб.
+
+Windows-based ransomware (PC data theft) is an attempt by attackers to gain access to 
+
+confidential data stored or transmitted using a computer running the Windows operating system. 
+
+To do this, they can use various methods, such as:
+
+Malware is malicious code that can infect a computer, intercept, modify, or steal data, lock down a system, or demand ransom.
+
+There are different types of malware, such as viruses, worms, trojans, rootkits, spyware, adware, ransomware, and others.
+  
+Phishing is a type of deception where attackers try to gain a victim's trust by using fake emails, websites, messages,
+  
+  or other forms of communication to steal their personal, financial, or other sensitive information.
+  
+Exploits are pieces of code that exploit vulnerabilities in a software or system to gain unauthorized access, 
+
+perform malicious actions, or spread malware.
+
+Social engineering is a psychological manipulation where attackers try to induce a victim to perform certain actions
+
+that may lead to information theft, system compromise, or other negative consequences. 
+  
+For example, they may pretend to be technical support staff, partners, customers, or other trusted individuals.
+
+
+Для захисту від таких атак необхідно дотримуватися наступних рекомендацій:
+
+Встановлювати та оновлювати антивірусне програмне забезпечення, таке як Безпека у Windows,
+  
+яке може виявляти та блокувати шкідливе програмне забезпечення, потенційно небажані програми, експлойти та інші загрози.
+  
+Не відкривати підозрілі або невідомі електронні листи, посилання, 
+  
+файли або повідомлення, які можуть містити фішинговий або шкідливий вміст. 
+  
+Перевіряти відправника, адресу, орфографію, граматику та логіку повідомлення перед тим, як натискати на будь-що.
+  
+Оновлювати операційну систему, браузери, додатки та інше програмне забезпечення регулярно, щоб усунути вразливості,
+  
+які можуть бути використані експлойтами. Використовувати функцію автоматичного оновлення, якщо можливо.
+  
+Не ділитися своїми особистими, фінансовими або іншими конфіденційними даними з незнайомими або підозрілими особами,
+  
+які можуть використовувати соціальну інженерію, щоб обдурити вас. 
+  
+Використовувати сильні та унікальні паролі для різних облікових записів та зберігати їх у безпечному місці.
+
+To protect against such attacks, you should follow the following recommendations:
+
+Install and update anti-virus software, such as Windows Security, which can detect and block malware,
+  
+potentially unwanted programs, exploits, and other threats.
+  
+Do not open suspicious or unknown emails, links, files, or messages that may contain phishing or malicious content.
+  
+Check the sender, address, spelling, grammar, and logic of the message before clicking on anything.
+  
+Update your operating system, browsers, applications, and other software regularly to eliminate vulnerabilities that can be exploited.
+  
+Use the automatic update feature if possible.
+  
+Do not share your personal, financial, or other sensitive data with strangers or suspicious individuals who may use social engineering to defraud you. 
+  
+Use strong and unique passwords for different accounts and keep them in a safe place.
